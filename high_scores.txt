@@ -1,0 +1,7 @@
+Ramim: 5
+Romel: 10
+Ramim: 15
+romel: 25
+Ramim: 10
+Ramim: 5
+Ramim: 25
